@@ -10,9 +10,9 @@
 <h3>To run:</h3>
 <ul>
   <li>In the server directory, run <code>node server.js</code>, which will run the server on port 3000.</li>
-  <li>In the client directory, run <code>npm start</code>, which will start the frontend.
-  <li>After running npm start, if shown "fsevents.node” cannot be opened because the developer cannot be verified." please choose "cancel."</li>;
-  <li>terminal will ask "Would you like to run the app on another port instead?", please type in "Y".</li>;
+  <li>In the client directory, run <code>npm start</code>, which will start the frontend.</li>
+  <li>After running npm start, if shown "fsevents.node” cannot be opened because the developer cannot be verified." please choose "cancel."</li>
+  <li>terminal will ask "Would you like to run the app on another port instead?", please type in "Y".</li>
 </ul>
 
 <h3>Overview</h3>
