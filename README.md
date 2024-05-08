@@ -11,7 +11,7 @@
 <ul>
   <li>In the server directory, run <code>node server.js</code>, which will run the server on port 3000.</li>
   <li>In the client directory, run <code>npm start</code>, which will start the frontend.</li>
-  <li>After running <code>npm start</code>, if shown "fsevents.node” cannot be opened because the developer cannot be verified." please choose "cancel."</li>
+  <li>After running <code>npm start</code>, if shown "fsevents.node cannot be opened because the developer cannot be verified." please choose "cancel."</li>
   <li>terminal will ask "Would you like to run the app on another port instead?", please type in "Y".</li>
 </ul>
 
